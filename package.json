@@ -2,7 +2,6 @@
   "name": "markdown-notes",
   "dependencies": {
     "firebase": "^10.3.0",
-    "radium": "^0.26.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-mde": "^11.5.0",
